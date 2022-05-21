@@ -1,2 +1,3 @@
 teste
 adicionado texto
+alterado por dev 1 
